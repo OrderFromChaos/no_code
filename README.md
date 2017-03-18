@@ -20,7 +20,7 @@ This is an on-going project with [Laura Sales](http://www.physics.ucr.edu/people
 
 The numerical code is based around [Leapfrog integration](https://en.wikipedia.org/wiki/Leapfrog_integration), which is a second-order method of simulating future events. The integration method is sympletic, which means time can run in the opposite direction and it will still work properly (as long as the timestep is constant).
 
-#[Orbach Library](https://library.ucr.edu/libraries/orbach-science-library) Room Reservations
+# [Orbach Library](https://library.ucr.edu/libraries/orbach-science-library) Room Reservations
 
 ### What is it?
 
